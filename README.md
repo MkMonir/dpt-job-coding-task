@@ -1,6 +1,16 @@
+# Assessment test for Junior Software Engineer
+
+It took approximately 3 hours to finish. Thank you for the opportunity!
+
+==============================================================
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
+
+1. Clone or Download this repository to your local machine.
+2. Open the terminal Run this command line "npm install" for installing all packages.
+3. Then Follow Below Instructions
 
 First, run the development server:
 
